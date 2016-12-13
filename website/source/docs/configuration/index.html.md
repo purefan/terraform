@@ -13,7 +13,7 @@ These text files are called Terraform _configurations_ and end in
 `.tf`. This section talks about the format of these files as well as
 how they're loaded.
 
-The format of the configuration files are able to be in two formats:
+Configuration files can be in two formats:
 Terraform format and JSON. The Terraform format is more human-readable,
 supports comments, and is the generally recommended format for most
 Terraform files. The JSON format is meant for machines to create,
